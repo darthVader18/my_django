@@ -1,0 +1,10 @@
+{
+    "_comment": "Developer help file",
+    "shortcuts": {
+        "Change VS language mode": "Keyboard Shortcut: Ctrl + K M",
+        "Command pallete": " Ctrl + Shift P"
+    },
+    "Tips": {
+        "Change language mode": "Keyboard Shortcut: Ctrl + K M"
+    }
+}
