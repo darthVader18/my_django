@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\India\\Anaconda3\\envs\\MyDjangoEnv\\python.exe"
+    "python.pythonPath": "C:\\Users\\India\\Anaconda3\\envs\\MyDjangoEnv\\python.exe",
+    "python.formatting.provider": "black"
 }
